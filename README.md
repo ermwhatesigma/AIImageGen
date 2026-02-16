@@ -10,6 +10,8 @@ ollama pull dolphin-phi
 It uses python diffusers and pytorch so you will have to download that with your own gpu support i use rocm drivers because i have an amd gpu on Ubuntu so i don't think it will work on windows and i wont fix it for windows. You will have to do that yourself.  
   
 You can select in the script how many different frames you want and the speed of the playback of the frames.  
+**Disclamer** I ran this project fully on an amd gpu with ROCm drivers so you will have to tune it if you wanna run it with a cuda gpu. You will also have to download the huggingface SDXL model for it to run arounf 17gb Image generator model  
+
 
 # How to run it
 You will need to have the venv active.
