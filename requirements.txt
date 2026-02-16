@@ -1,0 +1,5 @@
+diffusers==1.26.0
+transformers==4.34.0
+safetensors
+Pillow
+ollama
