@@ -26,4 +26,6 @@ python AIVideoGen.py
 Then you select the prompt you want. If you want you can also change the ollama model  
 
 # Example
-[![Watch the video](https://img.youtube.com/vi/4CAbCDz-9Ag/0.jpg)](https://www.youtube.com/watch?v=4CAbCDz-9Ag)
+[![Watch the video](https://img.youtube.com/vi/4CAbCDz-9Ag/0.jpg)](https://www.youtube.com/watch?v=4CAbCDz-9Ag)  
+OUTPUT  
+[![Watch the video](https://www.youtube.com/shorts/KY0K6MI5QW4/0.jpg)](https://www.youtube.com/shorts/KY0K6MI5QW4)
