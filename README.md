@@ -26,3 +26,9 @@ python AIVideoGen.py
 Then you select the prompt you want. If you want you can also change the ollama model  
 
 # Example
+<iframe width="712" height="400" 
+    src="https://www.youtube.com/embed/4CAbCDz-9Ag" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
