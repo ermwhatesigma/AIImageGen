@@ -28,4 +28,7 @@ Then you select the prompt you want. If you want you can also change the ollama 
 # Example
 [![Watch the video](https://img.youtube.com/vi/4CAbCDz-9Ag/0.jpg)](https://www.youtube.com/watch?v=4CAbCDz-9Ag)  
 OUTPUT  
-[![Watch the video](https://img.youtube.com/vi/KY0K6MI5QW4/0.jpg)](https://www.youtube.com/shorts/KY0K6MI5QW4)
+[![Watch the video](https://img.youtube.com/vi/KY0K6MI5QW4/0.jpg)](https://www.youtube.com/shorts/KY0K6MI5QW4)  
+# Conclusion
+You can see that the video and output is not the best. The ai model does not remember the other frames so it will not remember what it already did generate.  
+So it is like a random frame generator so you can compare the different frames. So yeah you can't call it a video generator.  
