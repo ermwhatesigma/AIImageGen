@@ -26,7 +26,7 @@ python AIVideoGen.py
 Then you select the prompt you want. If you want you can also change the ollama model  
 
 # Example
-<video width="712" controls>
-  <source src="/Videos/new.mp4" type="video/mp4">
+<video width="712" controls autoplay loop muted>
+  <source src="videos/new.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
