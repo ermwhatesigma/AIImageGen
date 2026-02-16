@@ -91,4 +91,4 @@ subprocess.run([
     video_name
 ])
 
-print(f"\n🎬 Video saved: {video_name} at {fps} fps")
+print(f"\nVideo saved: {video_name} at {fps} fps")
